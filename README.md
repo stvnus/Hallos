@@ -1,5 +1,5 @@
 
-![image](https://github.com/stvnus/Hallos/assets/58300623/8f42f827-7984-465b-840a-7f802086ccc6)
+![tampilan](https://github.com/stvnus/Hallos/assets/58300623/c44304de-f576-4bc9-824f-803caf7d6a70)
 
 
 # Getting Started with Create React App
