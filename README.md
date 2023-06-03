@@ -1,3 +1,7 @@
+
+![image](https://github.com/stvnus/Hallos/assets/58300623/8f42f827-7984-465b-840a-7f802086ccc6)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
